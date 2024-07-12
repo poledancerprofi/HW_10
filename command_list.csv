@@ -1,0 +1,151 @@
+    1  /Volumes/Final\ Cut\ Pro\ 10.7.1/Open\ Gatekeeper\ friendly ; exit;
+    2  /Volumes/Final\ Cut\ Pro\ 10.7.1/Open\ Gatekeeper\ friendly ; exit;
+    3  /Volumes/Final\ Cut\ Pro\ 10.7.1/Open\ Gatekeeper\ friendly ; exit;
+    4  /Volumes/Cinemagraph\ Pro\ 2.11/Open\ Gatekeeper\ friendly ; exit;
+    5  /Volumes/ViWizard\ Spotify\ Music\ Converter\ 2.13.0/Open\ Gatekeeper\ friendly ; exit;
+    6  git - version
+    7  git -- version
+    8  git--version
+    9  git --version
+   10  help
+   11  help help
+   12  help cd
+   13  man
+   14  ls - l
+   15  ls -l
+   16  cd
+   17  ls
+   18  cd Postmam/
+   19  ls
+   20  vimfile.txt
+   21  vim file.txt
+   22  nano
+   23  date
+   24  system_profiler
+   25  df -h
+   26  whoami
+   27  ls -l
+   28  chmod 777 file.txt
+   29  clear
+   30  git config -- global user.name "lenasoika"
+   31  git config --global user.name "Lena Soika"
+   32  git config --global user.email "poledancerprofi@gmail.com"
+   33  git config --get user.name
+   34  git config --get user.email
+   35  git clone https://github.com/poledancerprofi/HW_10.git
+   36  git status
+   37  cd git
+   38  cd git/
+   39  git status
+   40  li -l
+   41  ls -l
+   42  git addgit add new_file.txt
+   43  git add new_file.txt
+   44  git add new_file.txt
+   45  git status
+   46  git commit -m "Crated a new file named new_file"
+   47  git --help
+   48  git log
+   49  git brunch
+   50  git chekout -b "test"
+   51  git branch
+   52  touch test.txt
+   53  git add test.txt
+   54  git --version
+   55  man ls
+   56  ls
+   57  cd Desktop
+   58  ls
+   59  cd ..
+   60  cd ~
+   61  cd /
+   62  pwd
+   63  cd ..
+   64  mkdid Lesson
+   65  mkdir Lesson
+   66  ls
+   67  cd desktop
+   68  cd Desktop
+   69  ls
+   70  pwd
+   71  cd Desktop
+   72  ls
+   73  cd Users
+   74  ls
+   75  cd Desktop
+   76  ls
+   77  clear
+   78  ls
+   79  cd Desktop
+   80  mkdir Lesson
+   81  touch empty.txt
+   82  pwd
+   83  cp /Users/apple/Desktop/empty.txt /Users/apple/Downloads
+   84  rm empty.txt
+   85  ping google.com
+   86  date
+   87  system_profiler
+   88  cler
+   89  cleaclear
+   90  cclear
+   91  df -h
+   92  ifconfig
+   93  whoami
+   94  cd Desktop
+   95  touch test.txt
+   96  chmod 777 test.txt
+   97  clear
+   98  cd Git
+   99  git config --global user.name "Olena Soika"
+  100  git config --global user.email poledancerprofi@gmai.com
+  101  git clone https://github.com/poledancerprofi/HW_10.git
+  102  cd HW_10
+  103  touch New.txt
+  104  git status
+  105  git add New.txt
+  106  git status
+  107  git commit -m "New file created"
+  108  git status
+  109  git log
+  110  git branch
+  111  git checkout -b new_branch
+  112  git checkout new_brunch
+  113  git clone https://github.com/poledancerprofi/HW_10.git
+  114  git config --global user.name "Olena Soika"
+  115  git config --global user.email poledancerprofi@gmail.com
+  116  git clone https://github.com/poledancerprofi/HW_10.git
+  117  cd HW_10
+  118  touch text_ignore.txt 
+  119  nano .gitignore
+  120  nano .gitignore
+  121  git config --global user.name "Olena Soika"
+  122  git config --global user.email poledancerprifi@gmail.com
+  123  git clone https://github.com/poledancerprofi/HW_10.git
+  124  cd HW_10
+  125  touch text_ignore.txt
+  126  nano .gitignore
+  127  cd .gitignore
+  128  git status
+  129  git commit -m "Added text_ignore.txt to .gitignore and created text_ignore.txt"
+  130  git add
+  131  git add .
+  132  git commit -m
+  133  echo "text_ignore.txt" >> .gitignore
+  134  git status
+  135  git add .
+  136  git commit -m
+  137  git commit -m "Added text_ignore.txt to .gitignore"
+  138  touch main_test.txt
+  139  git add .
+  140  git commit -m "Added empty main_test.txt file"
+  141  git checkout -b develop
+  142  touch develop_test.txt
+  143  git add .
+  144  git commit -m "Added empty develop_test.txt file"
+  145  echo "Some changes in the develop_test.txt file" > develop_test.txt\n
+  146  git status\n
+  147  git add .\n
+  148  git commit -m "Updated develop_test.txt with changes"
+  149  git checkout main
+  150  git merge develop
+  151  git log --oneline --graph --all
